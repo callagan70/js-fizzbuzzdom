@@ -17,6 +17,7 @@ display: flex;
 flex-wrap: wrap;
 justify-content: start;
 margin: 0 auto;
+background-color: #083B4C;
 }
 
 .numero{
@@ -32,3 +33,6 @@ margin: 0 auto;
   align-items: center;
 }
 
+.colore{
+  background-color: #1389B2;
+}
