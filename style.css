@@ -8,4 +8,27 @@ body h1{
   text-align: center;
   margin-top: 32px;
   font-size: 6em;
+  margin-bottom: 32px;
 }
+
+#view{
+width: 60%;
+display: flex;
+flex-wrap: wrap;
+justify-content: start;
+margin: 0 auto;
+}
+
+.numero{
+  display: flex;
+  color:black;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  width: calc((100% / 7) - 20px);
+  margin: 10px;;
+  height: 8em;
+  justify-content: center;
+  align-items: center;
+}
+
